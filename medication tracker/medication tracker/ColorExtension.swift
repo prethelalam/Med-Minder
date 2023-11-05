@@ -2,7 +2,7 @@
 //  ColorExtension.swift
 //  medication tracker
 //
-//  Created by Prethel Alam on 11/5/23.
+//  Created by Zain Karim and Prethel Alam on 11/5/23.
 //
 
 import SwiftUI

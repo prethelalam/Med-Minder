@@ -2,7 +2,7 @@
 //  Medication.swift
 //  medication tracker
 //
-//  Created by Zain Karim on 11/5/23.
+//  Created by Zain Karim and Prethel Alam on 11/5/23.
 //
 
 import Foundation
