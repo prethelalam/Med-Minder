@@ -1,2 +1,2 @@
 # Med-Minder
-UTD Hackathon X (PRHI Challenge)
+UTD HackathonX (PRHI Challenge)
