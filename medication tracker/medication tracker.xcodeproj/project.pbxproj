@@ -16,6 +16,7 @@
 		1784FB352AF76DFA00CC7334 /* MedicationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1784FB342AF76DFA00CC7334 /* MedicationView.swift */; };
 		1784FB372AF76E1B00CC7334 /* MedicationListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1784FB362AF76E1B00CC7334 /* MedicationListView.swift */; };
 		35DE581C2AF79D39004FBF9D /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35DE581B2AF79D39004FBF9D /* ColorExtension.swift */; };
+		35DE581E2AF7B883004FBF9D /* MedicationEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35DE581D2AF7B883004FBF9D /* MedicationEditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		1784FB342AF76DFA00CC7334 /* MedicationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedicationView.swift; sourceTree = "<group>"; };
 		1784FB362AF76E1B00CC7334 /* MedicationListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedicationListView.swift; sourceTree = "<group>"; };
 		35DE581B2AF79D39004FBF9D /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
+		35DE581D2AF7B883004FBF9D /* MedicationEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedicationEditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				1784FB342AF76DFA00CC7334 /* MedicationView.swift */,
 				1784FB362AF76E1B00CC7334 /* MedicationListView.swift */,
 				35DE581B2AF79D39004FBF9D /* ColorExtension.swift */,
+				35DE581D2AF7B883004FBF9D /* MedicationEditView.swift */,
 				1784FB242AF76C3400CC7334 /* Assets.xcassets */,
 				1784FB262AF76C3400CC7334 /* Preview Content */,
 			);
@@ -153,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1784FB232AF76C3100CC7334 /* ContentView.swift in Sources */,
+				35DE581E2AF7B883004FBF9D /* MedicationEditView.swift in Sources */,
 				1784FB352AF76DFA00CC7334 /* MedicationView.swift in Sources */,
 				1784FB2F2AF76C7100CC7334 /* Medication.swift in Sources */,
 				1784FB312AF76CA500CC7334 /* MedicationManager.swift in Sources */,
